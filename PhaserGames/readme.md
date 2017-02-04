@@ -12,7 +12,7 @@ To [Phaser](http://phaser.io/) είναι  μια πλατφόρμα για τη
 
 ## Διαδικασία 
 
-Για την εργασία θα στηριχθείς σε ένα υπάρχον παιχνίδι το pacman (σε [jsbin](http://jsbin.com/behola/1/edit?js,output) ή [codepen](http://codepen.io/photonstorm/pen/emeRJW?editors=001) και στη συνέχεια θα πρέπει να το επεκτείνεις. Αναλυτικές αρχικές οδηγίες θα βρεις [εδώ](https://phaser.io/tutorials/coding-tips-005).
+Για την εργασία θα στηριχθείς σε ένα υπάρχον παιχνίδι το pacman (σε [jsbin](http://jsbin.com/behola/1/edit?js,output) ή [codepen](http://codepen.io/photonstorm/pen/emeRJW?editors=001)) και στη συνέχεια θα πρέπει να το επεκτείνεις. Αναλυτικές αρχικές οδηγίες θα βρεις [εδώ](https://phaser.io/tutorials/coding-tips-005).
 
 Αρχικά θα πρέπει να έχεις δημιουργήσει ένα νέο public repository στο προσωπικό σου github λογαριασμό.
 ![ScreenShot](1.png)
