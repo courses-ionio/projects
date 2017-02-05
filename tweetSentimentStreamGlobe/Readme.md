@@ -1,4 +1,4 @@
-![Ιόνιο Πανεπιστήμιο](../logo-ionio-black-150x150.jpg)
+![Ιόνιο Πανεπιστήμιο](screenshots/logo-ionio-black-150x150.jpg)
 
 # Sentiment Analysis on Twitter
 
