@@ -1,17 +1,14 @@
 # Δημιουργία HTML5 παιχνίδιου με χρήση του Phaser
 
-To [Phaser](http://phaser.io/) είναι  μια πλατφόρμα για την ανάπτυξη παιχνιδιών μέσω HTML5. Σκοπός της εργασίας είναι να δημιουργήσεις το δικό σου HTML5 video game. 
+To [Phaser](http://phaser.io/) είναι  μια πλατφόρμα για την ανάπτυξη παιχνιδιών μέσω HTML5. 
 
-Για τον σκοπό αυτό θα πρέπει αρχικά να δημιουργήσεις ένα αντίγραφο (fork) του [αποθετηρίου](https://github.com/ioniodi/phaser-games) του παιχνιδίου και να ακολουθήσεις τα βήματα που αντιστοιχούν στα παραδοτέα αυτής της εργασίας.
+Σκοπός της εργασίας είναι να επεκτείνεις ένα HTML5 video game. 
+
+Για τον σκοπό αυτό θα πρέπει αρχικά να δημιουργήσεις ένα αντίγραφο(fork) του [αποθετηρίου](https://github.com/ioniodi/phaser-games) του παιχνιδίου και στη συνέχεια να ακολουθήσεις τα βήματα που αντιστοιχούν στα παραδοτέα αυτής της εργασίας.
  
-Στο site του [Phaser](http://phaser.io/) μπορείς να βρεις διάφορα [tutorial](http://phaser.io/learn) και [παραδείγματα](http://phaser.io/examples).
  
 Για την ανάπτυξη του παιχνίδιου μπορείς να χρησιμοποιήσεις είτε το [jsbin](http://jsbin.com/?js,output) ή το [codepen](http://codepen.io/). Θα πρότεινα να χρησιμοποιήσεις το jsbin και να κάνετε sign-in χρησιμοποιώντας τον github λογαριασμό σου. Με τα συγκεκριμένα εργαλεία μπορείς να επεξεργαστείς και να εκτελέσεις online τον κώδικα του παιχνιδιού σου.
  
-Ο προγραμματισμός στο Phaser γίνεται σε JavaScript (δες [tutorial](http://www.w3schools.com/js/)).
-
-Μελέτησε τα επίσημα [tutorials](https://phaser.io/learn/official-tutorials) του Phaser για να πάρεις ιδέες για το παιχνίδι σου.
-
 ## Διαδικασία 
 
 Για την εργασία θα στηριχθείς σε ένα υπάρχον παιχνίδι το pacman και στη συνέχεια θα πρέπει να το επεκτείνεις. Αναλυτικές αρχικές οδηγίες θα βρεις [εδώ](https://phaser.io/tutorials/coding-tips-005).
@@ -62,3 +59,13 @@ To [Phaser](http://phaser.io/) είναι  μια πλατφόρμα για τη
  - Επιπλέον αλλαγές όπως περιγράφονται στο παραδοτέο 3 μέχρι 7.
  - Σημαντικές αλλαγές με προσθήκη εχθρών: 8-9.
  - Αν υλοποιηθούν όλες οι προτεινόμενες επεκτάσεις: 10
+  
+ ## Resources
+ - [Phaser Tutorial](http://phaser.io/learn)
+ - [Official Phaser Tutorials](https://phaser.io/learn/official-tutorials)
+ - [Examples](http://phaser.io/examples)
+ - [Javascript tutorial](http://www.w3schools.com/js/)
+ 
+
+ 
+ 
