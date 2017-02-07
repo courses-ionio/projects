@@ -20,7 +20,7 @@ To [Phaser](http://phaser.io/) είναι  μια πλατφόρμα για τη
 Ενεργοποίησε το Github Pages στα setting του προσωπικού σου repository.
 ![ScreenShot](3.png)
 
-Τέλος φόρτωσε την εικόνα από το Github Pages στο jsbin. 
+Τέλος φόρτωσε την εικόνα από το Github Pages. 
 ![ScreenShot](4.png)
 
 ## Παραδοτέο 1 Άλλαξε πρωταγωνιστή και πρόσθεσε επιπλέον αντικείμενα
