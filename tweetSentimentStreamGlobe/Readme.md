@@ -54,7 +54,7 @@
 ## Οδηγίες εκπόνησης της εργασίας (βήμα προς βήμα)
 - [x] Δημιουργήστε στον github λογαριασμό σας ένα αντίγραφο (**fork**) του αποθετηρίου: [https://github.com/ioniodi/twitter-stream-globe](https://github.com/ioniodi/twitter-stream-globe).
 
-![forkRepository](/screenshots/odigiesTwitterSentimentGlobe00.png)
+![forkRepository](/tweetSentimentStreamGlobe/screenshots/odigiesTwitterSentimentGlobe00.png)
 
 
 Για το **Μέρος Α**:
@@ -76,24 +76,24 @@ var pubnub = TweetPublisher.pubnub = Pubnub({
 ```
 Συγκεκριμένα για την πλατφρμα PubNub, για να βρείτε τις τιμές των 2 παραπάνω μεταβλητών ακολουθήστε τα εξής βήματα:
 **Βήμα 1**
-![pubnub1](/screenshots/odigiesTwitterSentimentGlobe09.png)
+![pubnub1](/tweetSentimentStreamGlobe/screenshots/odigiesTwitterSentimentGlobe09.png)
 **Βήμα 2**
-![pubnub2](/screenshots/odigiesTwitterSentimentGlobe10.png)
+![pubnub2](/tweetSentimentStreamGlobe/screenshots/odigiesTwitterSentimentGlobe10.png)
 - [x] Μπείτε στον λογαριασμό σας στο [Heroku](https://www.heroku.com/). Η πλατφόρμα **[Heroku](https://www.heroku.com/)**, η οποία συνεργάζεται και με το Github [https://blog.heroku.com/heroku_github_integration](https://blog.heroku.com/heroku_github_integration) προσφέρει δωρεάν υπηρεσίες web hosting σε ssl.
 - [x] Δημιουργήστε μια νέα εφαρμογή.
-![herokuapps](/screenshots/odigiesTwitterSentimentGlobe02.png)
+![herokuapps](/tweetSentimentStreamGlobe/screenshots/odigiesTwitterSentimentGlobe02.png)
 
 **Συμβουλή:** Για λόγους ασφαλείας, καλό θα είναι αυτές οι μεταβλητές που περιγράψαμε παραπάνω (**TWITTER_CONSUMER_KEY**, **TWITTER_CONSUMER_SECRET** κ.λπ.) να μην είναι δημόσια. Μια καλή λύση θα ήταν να τις αποκρύψετε από τη δημόσια θέα στο **github** μέσω της εφαρμογής που μόλις δημιουργήσατε στο **Heroku** (**Settings** -> **Config Variables**).
 
 **Βήμα 1**
-![herokuConfigp1](/screenshots/odigiesTwitterSentimentGlobe08.png)
+![herokuConfigp1](/tweetSentimentStreamGlobe/screenshots/odigiesTwitterSentimentGlobe08.png)
 **Βήμα 2**
-![herokuConfigp2](/screenshots/odigiesTwitterSentimentGlobe081.jpg)
+![herokuConfigp2](/tweetSentimentStreamGlobe/screenshots/odigiesTwitterSentimentGlobe081.jpg)
 
 - [x] Στην καρτέλα **Deploy**, συνδέστε την εφαρμογή που μόλις δημιουργήσατε με το repository που μεταφέρατε στο github μέσω **fork**(κάντε την απαραίτητη ρύθμιση στο πεδίο **Connect to GitHub** -> **Search** -> **Connect**).
-![herokudeploy1](/screenshots/odigiesTwitterSentimentGlobe05.png)
+![herokudeploy1](/tweetSentimentStreamGlobe/screenshots/odigiesTwitterSentimentGlobe05.png)
 - [x] Πατήστε το κουμπί **Deploy Branch** για να ανέβει ο κώδικας από το **github** στην εφαρμογή σας. Αυτή η κίνηση θα πρέπει να γίνεται κάθε φορά που θα αλλάζετε κάτι στο github, προκειμένου να ενημερώνεται η εφαρμογή σας στο Heroku.
-![herokudeploy1](/screenshots/odigiesTwitterSentimentGlobe06.png)
+![herokudeploy2](/tweetSentimentStreamGlobe/screenshots/odigiesTwitterSentimentGlobe06.png)
 - [x] Πατήστε το κουμπί **Open app** στο Dashboard της εφαρμογής σας στο Heroku και στην καρτέλα που ανοίγει εκτελείται η εφαρμογή σας.
 - [x] Στο αρχείο /public/javascripts/**TweetBeacon.js** κάντε τις απαραίτητες αλλαγές με βάση τις παρεμβάσεις που δηλώσατε στο **Παραδοτέο 1**.
 
