@@ -6,7 +6,7 @@ To [Phaser](http://phaser.io/) είναι  μια πλατφόρμα για τη
  
 Στο site του [Phaser](http://phaser.io/) μπορείς να βρεις διάφορα [tutorial](http://phaser.io/learn) και [παραδείγματα](http://phaser.io/examples).
  
-Για την ανάπτυξη του παιχνίδιου μπορείς να χρησιμοποιήσεις είτε το [jsbin](http://jsbin.com/?js,output) ή το [codepen](http://codepen.io/). Θα πρότεινα να χρησιμοποιήσεις το jsbin και να κάνετε sign-in χρησιμοποιώντας τον github λογαριασμό σου. Με το jsbin μπορείς να επεξεργαστείς και να εκτελέσεις online τον κώδικα του παιχνιδιού σου.
+Για την ανάπτυξη του παιχνίδιου μπορείς να χρησιμοποιήσεις είτε το [jsbin](http://jsbin.com/?js,output) ή το [codepen](http://codepen.io/). Θα πρότεινα να χρησιμοποιήσεις το jsbin και να κάνετε sign-in χρησιμοποιώντας τον github λογαριασμό σου. Με τα συγκερκιμένα εργαλεία μπορείς να επεξεργαστείς και να εκτελέσεις online τον κώδικα του παιχνιδιού σου.
  
 Ο προγραμματισμός στο Phaser γίνεται σε JavaScript (δες [tutorial](http://www.w3schools.com/js/)).
 
