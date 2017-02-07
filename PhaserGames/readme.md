@@ -5,7 +5,6 @@ To [Phaser](http://phaser.io/) είναι  μια πλατφόρμα για τη
 
 Αρχικά θα πρέπει να δημιουργήσεις ένα αντίγραφο (fork) του [αποθετηρίου](https://github.com/ioniodi/phaser-games) του παιχνιδίου και στη συνέχεια να ακολουθήσεις τα βήματα που αντιστοιχούν στα παραδοτέα αυτής της εργασίας.
  
- 
 Για την ανάπτυξη του παιχνίδιου μπορείς να χρησιμοποιήσεις είτε το [jsbin](http://jsbin.com/?js,output) ή το [codepen](http://codepen.io/). Θα πρότεινα να χρησιμοποιήσεις το jsbin και να κάνετε sign-in χρησιμοποιώντας τον github λογαριασμό σου. Με τα συγκεκριμένα εργαλεία μπορείς να επεξεργαστείς και να εκτελέσεις online τον κώδικα του παιχνιδιού σου.
  
 ## Διαδικασία 
@@ -41,9 +40,9 @@ To [Phaser](http://phaser.io/) είναι  μια πλατφόρμα για τη
 
 ## Βαθμολόγηση
 - Μικρές αλλαγές στο παιχνίδι όπως περιγράφονται στα παραδοτέα 1 και 2 μέχρι 6. 
- - Επιπλέον αλλαγές όπως περιγράφονται στο παραδοτέο 3 μέχρι 7.
- - Σημαντικές αλλαγές με προσθήκη εχθρών: 8-9.
- - Αν υλοποιηθούν όλες οι προτεινόμενες επεκτάσεις: 10.
+- Επιπλέον αλλαγές όπως περιγράφονται στο παραδοτέο 3 μέχρι 7.
+- Σημαντικές αλλαγές με προσθήκη εχθρών: 8-9.
+- Αν υλοποιηθούν όλες οι προτεινόμενες επεκτάσεις: 10.
  
 ## Bonus
 Τα τρία καλύτερα παιχνίδια θα κερδίσουν επιπλέον bonus ως εξής:
@@ -54,7 +53,7 @@ To [Phaser](http://phaser.io/) είναι  μια πλατφόρμα για τη
 Για να διεκδικήσεις τους βαθμούς bonus θα πρέπει πρώτα να δημιουργείτε ένα νέο κλαδί και μετά να κάνετε ένα αίτημα ενσωμάτωσης στο [αποθετήριο](https://github.com/ioniodi/phaser-games) του παιχνιδιού το οποίο να συνοδεύεται από περιγραφικό τίτλο και σχόλιο με το ΑΜ σας.
   
 ## Resources
- - [Phaser Tutorial](http://phaser.io/learn)
- - [Official Phaser Tutorials](https://phaser.io/learn/official-tutorials)
- - [Phaser Examples](http://phaser.io/examples)
- - [Javascript tutorial](http://www.w3schools.com/js/)
+- [Phaser Tutorial](http://phaser.io/learn)
+- [Official Phaser Tutorials](https://phaser.io/learn/official-tutorials)
+- [Phaser Examples](http://phaser.io/examples)
+- [Javascript tutorial](http://www.w3schools.com/js/)
