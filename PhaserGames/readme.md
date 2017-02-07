@@ -63,7 +63,7 @@ To [Phaser](http://phaser.io/) είναι  μια πλατφόρμα για τη
  ## Resources
  - [Phaser Tutorial](http://phaser.io/learn)
  - [Official Phaser Tutorials](https://phaser.io/learn/official-tutorials)
- - [Examples](http://phaser.io/examples)
+ - [Phaser Examples](http://phaser.io/examples)
  - [Javascript tutorial](http://www.w3schools.com/js/)
  
 
