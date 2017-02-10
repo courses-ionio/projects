@@ -9,7 +9,7 @@
 *Ο κώδικας που θα επεξεργαστούμε παρακάτω προέρχεται από το αποθετήριο: [https://github.com/twitterdev/twitter-stream-globe](https://github.com/twitterdev/twitter-stream-globe).* 
 
 ### Μέρος Β
-Στο μέρος Β αυτής της εργασας θα πρέπει να **μεταφράσετε** στα ελληνικά και να ενσωματώσετε (**pull request**) τις λέξεις που υποδηλώνουν συναισθήματα στο κατάλληλο αρχείο **[AFINN-translateToGreek165.txt](https://github.com/ioniodi/twitter-stream-globe/blob/master/AFINN-translateToGreek165.txt)**. Αναλυτικές οδηγίες παρέχονται παρακάτω.
+Στο μέρος Β αυτής της εργασίας θα πρέπει να **μεταφράσετε** στα ελληνικά και να ενσωματώσετε (**pull request**) τις λέξεις που υποδηλώνουν συναισθήματα στο κατάλληλο αρχείο **[AFINN-translateToGreek165.txt](https://github.com/ioniodi/twitter-stream-globe/blob/master/AFINN-translateToGreek165.txt)**. Αναλυτικές οδηγίες παρέχονται παρακάτω.
 
 ## Βαθμολόγηση
 * Η εγκατάσταση των αρχείων της εφαρμογής έχει γίνει σωστά, έχουν ρυθμιστεί οι κατάλληλες παράμετροι και η εφαρμογή  είναι online και λειτουργική (**4 μονάδες**).
