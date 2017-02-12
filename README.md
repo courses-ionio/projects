@@ -4,7 +4,7 @@
 
 * [Pacman](pacman/) HCI, SW, $
 * [Twitter Sentiment Analysis](tweetSentimentStreamGlobe/) CSCW, MM, $$
-* [Συνεργατική κατασκευή ιστοσελίδας για το τμήμα Πληροφορικής](sitedi/) CSCW, ΜΜ, $$$
+* [Συνεργατική κατασκευή ιστοσελίδας](sitedi/) CSCW, ΜΜ, $$$
 * [Bonus](bonus/) HCI, CSCW, MM, SW, $$$
 
 ## Παραδοτέα
