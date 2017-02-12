@@ -1,8 +1,8 @@
 # Εργασίες
 
-* [Pacman](pacman/)
-* [Twitter Sentiment Analysis](tweetSentimentStreamGlobe/)
-* [Συνεργατική κατασκευή ιστοσελίδας για το τμήμα Πληροφορικής](sitedi/)
+* [Pacman](pacman/) HCI, CSCW, MM, SW
+* [Twitter Sentiment Analysis](tweetSentimentStreamGlobe/) HCI, CSCW, MM, SW
+* [Συνεργατική κατασκευή ιστοσελίδας για το τμήμα Πληροφορικής](sitedi/) HCI, CSCW, MM, SW
 * [Bonus](bonus/)
 
 ## Παραδοτέα
