@@ -1,8 +1,10 @@
 # Εργασίες
 
-* [Pacman](pacman/) HCI, CSCW, MM, SW
-* [Twitter Sentiment Analysis](tweetSentimentStreamGlobe/) HCI, CSCW, MM, SW
-* [Συνεργατική κατασκευή ιστοσελίδας για το τμήμα Πληροφορικής](sitedi/) HCI, CSCW, MM, SW
+Δίπλα σε κάθε εργασία φαίνεται ο κωδικός του μαθήματος για το οποίο είναι περισσότερο κατάλληλη. Οι εργασίες έχουν παρόμοια εκφώνηση για διαφορετικά μαθήματα αλλά η έμφαση της βαθμολόγησης εστιάζει στα κριτήρια του κάθε μαθήματος, π.χ., διάδραση για το HCI.
+
+* [Pacman](pacman/) HCI, SW
+* [Twitter Sentiment Analysis](tweetSentimentStreamGlobe/) CSCW, MM
+* [Συνεργατική κατασκευή ιστοσελίδας για το τμήμα Πληροφορικής](sitedi/) CSCW, ΜΜ, SW
 * [Bonus](bonus/) HCI, CSCW, MM, SW
 
 ## Παραδοτέα
