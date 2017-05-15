@@ -21,4 +21,4 @@
 
 ## 5. Μπόνους 1.5 βαθμός, 25 Μαϊου, SW, CSCW
 
-Συμμετοχή σε ένα 10ήμερο συνεργατικό κινητό παιχνίδι σχεδίασης ψηφιακών χαρτών για πεζούς και ποδηλάτες για την πόλη της Κέρκυρας: [Οδηγίες και ερωτηματολόγιο](https://docs.google.com/a/ionio.gr/forms/d/e/1FAIpQLScD8z0mnJkZs6XnzirQI8dlZBMOAuj7DpeUe5zZXDvFFl9dlQ/viewform), [Κινητή εφαρμογή Android](https://peersonmap.herokuapp.com/)
+Συμμετοχή σε ένα 10ήμερο συνεργατικό κινητό παιχνίδι σχεδίασης ψηφιακών χαρτών για πεζούς και ποδηλάτες για την πόλη της Κέρκυρας: [Οδηγίες και ερωτηματολόγιο](https://docs.google.com/forms/d/e/1FAIpQLSf1nlJbfJ66RGly2uouH1xxtNccyCn4VRA_SAiGADLSSLl0Kg/viewform), [Κινητή εφαρμογή Android](https://peersonmap.herokuapp.com/)
