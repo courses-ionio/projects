@@ -27,16 +27,20 @@
 
 ## Παραδοτέο 3
 
-- [ ] 
-- [ ] 
+- [ ] Δημιουργία τουλάχιστον μίας ακόμα **επιλογής** ομαδοποίησης των δεδομένων (π.χ. *Split by the amount of the donation*).
 
 
 ## Παραδοτέο 4
 
-- [ ] 
-- [ ] 
+- [ ] Εισαγωγή τουλάχιστον ενός ακόμα **γραφήματος** οπτικοποίησης των ίδιων δεδομένων.
+- [ ] Τελική αναφορά.
 
 
 ## Βαθμολόγηση
   
 ## Χρήσιμοι σύνδεσμοι
+
+* [Data Driven Docunments](https://d3js.org/)
+* [Github pages](https://pages.github.com/)
+* [Who's funding the big three?](https://github.com/neilhawkins/d3-uk-political-donations)
+* [jQuery](https://jquery.com/)
