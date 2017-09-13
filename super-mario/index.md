@@ -4,6 +4,6 @@
 
 ## Βαθμολόγηση
 - Μικρές αλλαγές στο παιχνίδι όπως περιγράφονται στο [issue 1](https://github.com/ioniodi/Super-Mario/issues/1)  μέχρι 4. 
-- Επιπλέον αλλαγές όπως περιγράφονται στο παραδοτέο [issue 2](https://github.com/ioniodi/Super-Mario/issues/2)  μέχρι 6.
+- Επιπλέον αλλαγές όπως περιγράφονται στο [issue 2](https://github.com/ioniodi/Super-Mario/issues/2)  μέχρι 6.
 - Σημαντικές αλλαγές όπως περιγράφονται στο [issue 3](https://github.com/ioniodi/Super-Mario/issues/3): 7-9.
 - Σημαντικές αλλαγές όπως περιγράφονται στο [issue 4](https://github.com/ioniodi/Super-Mario/issues/4): 10.
