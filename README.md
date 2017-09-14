@@ -5,7 +5,7 @@
 * [Pacman](pacman/)  HCI, SW, $$
 * [Super Mario](super-mario/) HCI, SW, $
 * [Twitter Sentiment Analysis](tweetSentimentStreamGlobe/) CSCW, MM, SW $$$
-* [Συνεργατική κατασκευή ιστοσελίδας](sitedi/) CSCW, ΜΜ, $$$$
+* [Συνεργατική κατασκευή ιστοσελίδας](sitedi/) CSCW, ΜΜ, $$$
 * [Συνεργατική κατασκευή αποθετηρίου δημοσιεύσεων](scholardi/) CSCW, ΜΜ, $$$
 * [Bonus](bonus/) HCI, CSCW, MM, SW, $$$
 
