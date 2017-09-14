@@ -47,5 +47,5 @@
 
 * [Data Driven Docunments](https://d3js.org/)
 * [Github pages](https://pages.github.com/)
-* [Who's funding the big three?](https://github.com/neilhawkins/d3-uk-political-donations)
+* [Github repo: Who's funding the big three?](https://github.com/neilhawkins/d3-uk-political-donations)
 * [jQuery](https://jquery.com/)
