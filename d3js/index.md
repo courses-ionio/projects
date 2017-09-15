@@ -34,12 +34,3 @@
 * Αλλαγές στην εφαρμογή όπως περιγράφονται στα παραδοτέα 1 και 2: έως **+5 μονάδες**.
 * Αλλαγές όπως περιγράφονται στο παραδοτέο 3: έως **+3 μονάδες**.
 * Αλλαγές όπως περιγράφονται στο παραδοτέο 4: έως **+2 μονάδες**.
-
-
-## Χρήσιμοι σύνδεσμοι
-
-* [Data Driven Documents](https://d3js.org/)
-* [Github pages](https://pages.github.com/)
-* [Github repo: Who's funding the big three?](https://github.com/neilhawkins/d3-uk-political-donations)
-* [Javascript](https://www.javascript.com/)
-* [jQuery](https://jquery.com/)
