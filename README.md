@@ -2,9 +2,9 @@
 
 Δίπλα σε κάθε εργασία φαίνεται ο κωδικός του μαθήματος για το οποίο είναι περισσότερο κατάλληλη, καθώς και ο βαθμός δυσκολίας με δολάρια από κανονικό, σε δύσκολο, και πολύ δύσκολο. Οι εργασίες έχουν παρόμοια εκφώνηση για διαφορετικά μαθήματα αλλά η έμφαση της βαθμολόγησης είναι πάνω στα κριτήρια του κάθε μαθήματος, π.χ., διάδραση για το HCI.
 
+* [Data visualization](D3js-uk-political-donations/) HCI, MM $
+* [Super Mario](super-mario/) HCI, MM $
 * [Pacman](pacman/)  CSCW, MM, $$
-* [Super Mario](super-mario/) HCI, SW, $
-* [D3JS-]() HCI, MM, $
 * [Twitter Sentiment Analysis](tweetSentimentStreamGlobe/) CSCW, MM, SW $$$
 * [Συνεργατική κατασκευή ιστοσελίδας](sitedi/) CSCW, ΜΜ, $$$
 * [Συνεργατική κατασκευή αποθετηρίου δημοσιεύσεων](scholardi/) CSCW, ΜΜ, $$$
