@@ -17,4 +17,4 @@
 
 ## 4. Μπόνους ενάμισης βαθμός, *A: 9 Νοεμβρίου*, HCI, CSCW, MM, SW, $
 
-Συμμετοχή σε ένα 20ήμερο συνεργατικό κινητό παιχνίδι σχεδίασης ψηφιακών χαρτών για πεζούς για την πόλη της Κέρκυρας: [Οδηγίες και ερωτηματολόγιο](https://docs.google.com/forms/d/e/1FAIpQLSf4lRkty4YGvV9uVFH-DJ_yqUb256xI6eDCAqQ_PBBLixn-vA/viewform), [Κινητή εφαρμογή Android](https://peersonmap.herokuapp.com/), [Οδηγίες χρήσης εφαρμογής](https://docs.google.com/document/d/11hy4Pa3UWqbURRZehPpc0p4L7FqNMcYX-FuShpQL_vw/edit?usp=sharing).
+Συμμετοχή σε ένα συνεργατικό κινητό παιχνίδι σχεδίασης ψηφιακών χαρτών για πεζούς για την πόλη της Κέρκυρας: [Οδηγίες και ερωτηματολόγιο](https://docs.google.com/forms/d/e/1FAIpQLSf4lRkty4YGvV9uVFH-DJ_yqUb256xI6eDCAqQ_PBBLixn-vA/viewform), [Κινητή εφαρμογή Android](https://peersonmap.herokuapp.com/), [Οδηγίες χρήσης εφαρμογής](https://docs.google.com/document/d/11hy4Pa3UWqbURRZehPpc0p4L7FqNMcYX-FuShpQL_vw/edit?usp=sharing).
