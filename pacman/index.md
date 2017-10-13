@@ -4,7 +4,6 @@
 
 
 ## Βαθμολόγηση
-- Μικρές αλλαγές στο παιχνίδι όπως περιγράφονται στο [παραδοτέο 1](https://github.com/ioniodi/pacman/issues/43): μέχρι 3. 
-- Επιπλέον αλλαγές όπως περιγράφονται στο [παραδοτέο 2](https://github.com/ioniodi/pacman/issues/42): μέχρι 6.
-- Σημαντικές αλλαγές όπως περιγράφονται στο [παραδοτέο 3](https://github.com/ioniodi/pacman/issues/41) : 7-8.
+- Αλλαγές στο παιχνίδι όπως περιγράφονται στο [παραδοτέο 1](https://github.com/ioniodi/pacman/issues/43) και [παραδοτέο 2](https://github.com/ioniodi/pacman/issues/42) : μέχρι 5. 
+- Αλλαγές στο παιχνίδι όπως περιγράφονται στο [παραδοτέο 3](https://github.com/ioniodi/pacman/issues/41) :μέχρι 8.
 - Σημαντικές αλλαγές όπως περιγράφονται στο [παραδοτέο 4](https://github.com/ioniodi/pacman/issues/40): 9-10.
