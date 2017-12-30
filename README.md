@@ -8,6 +8,7 @@
 * [Twitter Sentiment Analysis](tweetSentimentStreamGlobe/) CSCW, MM, SW $$$
 * [Συνεργατική κατασκευή ιστοσελίδας](sitedi/) CSCW, ΜΜ, $$$
 * [Συνεργατική κατασκευή αποθετηρίου δημοσιεύσεων](scholardi/) CSCW, ΜΜ, $$$
+* [Συνεργατική κατασκευή οδηγού σπουδών](study-guide/) CSCW, MM, SW $$
 * [Bonus](bonus/) HCI, CSCW, MM, SW, $$$
 
 ## Παραδοτέα
