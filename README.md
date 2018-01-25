@@ -5,7 +5,8 @@
 * [Data visualization](D3js-uk-political-donations/) HCI, MM $
 * [Super Mario](super-mario/) HCI, MM $
 * [Pacman](pacman/)  HCI, MM, SW, $$
-* [Συνεργατική κατασκευή οδηγού σπουδών](study-guide/) CSCW, MM, SW $$
+* [Συνεργατική κατασκευή οδηγού σπουδών](study-guide/) MM, SW $$
+* [Συνεργατική χαρτογράφηση](corfu-map/) CSCW, UBIQ $$$
 * [Bonus](bonus/) HCI, CSCW, MM, SW, $$$
 
 ## Παραδοτέα
