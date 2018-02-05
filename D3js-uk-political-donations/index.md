@@ -10,5 +10,5 @@
 
 ## Βαθμολόγηση
 
-* Αλλαγές όπως περιγράφονται στο [παραδοτέο 1](https://github.com/ioniodi/D3js/issues/4): έως **+5 μονάδες**.
-* Αλλαγές όπως περιγράφονται στο [παραδοτέο 2](https://github.com/ioniodi/D3js/issues/3): έως **+5 μονάδες**.
+* Αλλαγές όπως περιγράφονται στο [παραδοτέο 1](https://github.com/ioniodi/D3js-uk-political-donations/issues/16): έως **+6 μονάδες**.
+* Αλλαγές όπως περιγράφονται στο [παραδοτέο 2](https://github.com/ioniodi/D3js-uk-political-donations/issues/17): έως **+4 μονάδες**.
