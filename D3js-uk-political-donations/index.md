@@ -10,6 +10,5 @@
 
 ## Βαθμολόγηση
 
-* Αλλαγές όπως περιγράφονται στο [παραδοτέο 1](https://github.com/ioniodi/D3js/issues/4) και το [παραδοτέο 2](https://github.com/ioniodi/D3js/issues/3): έως **+5 μονάδες**.
-* Αλλαγές όπως περιγράφονται στο [παραδοτέο 3](https://github.com/ioniodi/D3js/issues/2): έως **+3 μονάδες**.
-* Αλλαγές όπως περιγράφονται στο [παραδοτέο 4](https://github.com/ioniodi/D3js/issues/1): έως **+2 μονάδες**.
+* Αλλαγές όπως περιγράφονται στο [παραδοτέο 1](https://github.com/ioniodi/D3js/issues/4): έως **+5 μονάδες**.
+* Αλλαγές όπως περιγράφονται στο [παραδοτέο 2](https://github.com/ioniodi/D3js/issues/3): έως **+5 μονάδες**.
