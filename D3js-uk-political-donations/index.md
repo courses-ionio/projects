@@ -12,6 +12,11 @@
 1. Εκείνα τα οποία θα πρέπει να υλοποιηθούν στο αποθετήριο του κώδικα που έχετε αντιγράψει (fork) **στον λογαριασμό σας**.
 2. Εκείνα τα οποία θα πρέπει να υλοποιηθούν αρχικά στο παραπάνω αποθετήριο, αλλά στη συνέχεια θα προωθηθούν (pull request) στο κοινό **[αποθετήριο του κώδικα](https://github.com/ioniodi/D3js-uk-political-donations)**.
 
+### Σύνδεσμοι για το αποθετήριο...
+1. Του μαθήματος Τεχνολογία Λογισμικού: [https://github.com/courses-ionio/sw](https://github.com/courses-ionio/sw)
+2. Της άσκησης: [https://github.com/courses-ionio/projects/blob/master/D3js-uk-political-donations/index.md](https://github.com/courses-ionio/projects/blob/master/D3js-uk-political-donations/index.md)
+3. Του κώδικα: [https://github.com/ioniodi/D3js-uk-political-donations](https://github.com/ioniodi/D3js-uk-political-donations)
+
 ## Βαθμολόγηση
 
 * Αλλαγές όπως περιγράφονται στο [παραδοτέο 1](https://github.com/ioniodi/D3js-uk-political-donations/issues/16): έως **+5 μονάδες**.
