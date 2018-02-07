@@ -5,6 +5,6 @@
 
 ## Βαθμολόγηση
 
-* [Παραδοτέο 1](https://github.com/ioniodi/corfu-map/issues/4): έως **5 μονάδες**.
-* [Παραδοτέο 2](https://github.com/ioniodi/corfu-map/issues/3): έως **+4 μονάδες**.
-* [Παραδοτέο 3](https://github.com/ioniodi/corfu-map/issues/2): έως **+1 μονάδα**.
+* [Παραδοτέο 1](https://github.com/ioniodi/corfu-map/issues/4): έως **2,5 μονάδες** στον τελικό βαθμό.
+* [Παραδοτέο 2](https://github.com/ioniodi/corfu-map/issues/3): έως **+2,5 μονάδες** στον τελικό βαθμό.
+* [Παραδοτέο 3](https://github.com/ioniodi/corfu-map/issues/2): έως **+1 μονάδα** στον τελικό βαθμό.
