@@ -21,4 +21,4 @@
 
 * Αλλαγές όπως περιγράφονται στο [παραδοτέο 1](https://github.com/ioniodi/D3js-uk-political-donations/issues/16): έως **+2.5 μονάδες** στον τελικό βαθμό.
 * Αλλαγές όπως περιγράφονται στο [παραδοτέο 2](https://github.com/ioniodi/D3js-uk-political-donations/issues/17): έως **+2.5 μονάδες** στον τελικό βαθμό.
-* Αξιολόγηση από ομότιμους, όπως περιγράφεται στο αποθετήριο [courses-ionio/projects](https://github.com/courses-ionio/projects/blob/master/README.md#3-a%CE%BE%CE%B9%CE%BF%CE%BB%CF%8C%CE%B3%CE%B7%CF%83%CE%B7-%CE%B1%CF%80%CF%8C-%CE%BF%CE%BC%CE%BF%CF%84%CE%AF%CE%BC%CE%BF%CF%85%CF%82-10-30-%CE%9C%CE%B1%CE%90%CE%BF%CF%85): έως **+1 μονάδα** στον τελικό βαθμό.
+* Αξιολόγηση από ομότιμους, όπως περιγράφεται στο αποθετήριο [courses-ionio/projects](https://github.com/courses-ionio/projects/blob/master/README.md#3-a%CE%BE%CE%B9%CE%BF%CE%BB%CF%8C%CE%B3%CE%B7%CF%83%CE%B7-%CE%B1%CF%80%CF%8C-%CE%BF%CE%BC%CE%BF%CF%84%CE%AF%CE%BC%CE%BF%CF%85%CF%82-10-30-%CE%9C%CE%B1%CE%90%CE%BF%CF%85) και στο σχετικό [issue](): έως **+1 μονάδα** στον τελικό βαθμό.
