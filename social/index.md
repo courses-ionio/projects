@@ -7,7 +7,7 @@
 
 A: [πέντε νέες εικόνες με λεζάντα και με ελεύθερα πνευματικά δικαιώματα ή που επιτρέπουν εμπορική χρήση](https://github.com/mibook/gr/tree/gh-pages/_gallery) [π.χ., apple mouse](https://raw.githubusercontent.com/mibook/gr/gh-pages/_gallery/apple-mouse.md), οι νέες εικόνες μπορούν να είναι παρόμοιες με υπάρχουσχες αρκεί να συνοδεύονται από τα κατάλληλα πνευματικά δικαιώματα
 
-Β: [δύο νέα διαδραστικά παραδείγματα](https://github.com/mibook/gr/tree/gh-pages/_remix)
+Β: [δύο νέα διαδραστικά παραδείγματα](https://github.com/mibook/gr/tree/gh-pages/_remix), τα οποία θα πρέπει να συνδέονται με βασικές έννοιες του βιβλίου και της διάδρασης ανθρώπου-υπολογιστή και να επιτρέπουν σε κάποιον 2ο χρήστη να τα αλλάξει ή/και να τα προσθέσει σε διαφορετικές εφαρμογές ως αρχέτυπα.
 
 Γ: 1) [μια νέα μελέτη περίπτωσης](https://github.com/mibook/gr/tree/gh-pages/_case-study) ή 2) [μια νέα βιογραφία](https://github.com/mibook/gr/tree/gh-pages/_biography). 
 
