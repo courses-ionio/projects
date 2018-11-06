@@ -5,7 +5,7 @@
 * [Οπτικοποίηση Δεδομένων](https://github.com/ioniodi/D3js-US-educational-attainment) HCI, $
 * [Βίντεο-παιχνίδι](https://github.com/ioniodi/Shooter) MM, $$
 * [Συνεργατική κατασκευή οδηγού σπουδών](https://github.com/ioniodi/study-guide/) MM, $$$
-* [Συνεργατική κατασκευή ιστοσελίδας του τμήματος](https://github.com/ioniodi/sitedi-updated/) MM, $$$
+* [Συνεργατική κατασκευή ιστοσελίδας του τμήματος](https://github.com/ioniodi/sitedi-gr/) MM, $$$
 
 # Παραδοτέα για την εργασία ανάπτυξης
 
