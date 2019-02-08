@@ -6,7 +6,7 @@
 * [Βίντεο-παιχνίδι](https://github.com/ioniodi/Shooter) MM, $$
 * [Συνεργατική κατασκευή οδηγού σπουδών](https://github.com/ioniodi/study-guide/) SW, $$$
 * [Συνεργατική κατασκευή ιστοσελίδας του τμήματος](https://github.com/ioniodi/site-gr/) SW, $$$
-* [Ελεύθερη επιλογή συνεισφοράς σε δημοφιλές έργο ανοικτού λογισμικού](soc/index.md) SW, $$$$
+* [Ελεύθερη επιλογή συνεισφοράς σε δημοφιλές έργο ανοικτού λογισμικού](https://github.com/courses-ionio/projects/soc/index.md) SW, $$$$
 
 # Παραδοτέα για την εργασία ανάπτυξης
 
