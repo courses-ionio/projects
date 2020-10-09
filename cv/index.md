@@ -10,6 +10,6 @@
 Α) θα αξιολογηθούν οι αλλαγές που έγιναν στην μορφοποίηση-στυλ, δλδ, ο βαθμός θα είναι 0.5 αν απλά γίνει συμπλήρωση βιογραφικού.
 Β) η δημιουργία να γίνεται μόνο με την γραμμή εντολών (pandoc+latex) και όχι με κάποια γραφική ή δικτυακή εφαρμογή (για την τεκμηρίωση θα πρέπει να βάλετε στην τελική αναφορά μια [εγγραφή του τερματικού](https://asciinema.org/) στο οποίο να φαίνεται η ροη εργασίας από το αρχικό αρχείο δεδομένων, μέχρι το τελικό αποτέλεσμα), το κεντρικό αρχείο δεδομένων να έχει τυποποιημένη οργάνωση της πληροφορίας ώστε να είναι χρήσιμο και σε άλλους, και θα πρέπει η οργάνωση-μορφοποίηση της ιστοσελίδας να ταιριάζει όσο γίνεται περισσότερο με αυτήν του αρχείου προς εκτύπωση.
 
-## Βιβλιογραφία
+## Σχετικά μορφότυπα και ροές εργασίας για την κατασκευή βιογραφικών
 
-[1](https://github.com/sharu725/online-cv), [2](https://github.com/sproogen/modern-resume-theme), [3](https://github.com/ellekasai/resumecards), [4](https://github.com/plain-plain-text/simple-cv), [5](https://github.com/jglovier/resume-template), [6](https://github.com/blmoore/md-cv), [7](https://github.com/elipapa/markdown-cv), [8](https://jsonresume.org/)
+[1](https://github.com/sharu725/online-cv), [2](https://github.com/sproogen/modern-resume-theme), [3](https://github.com/ellekasai/resumecards), [4](https://github.com/plain-plain-text/simple-cv), [5](https://github.com/jglovier/resume-template), [6](https://github.com/blmoore/md-cv), [7](https://github.com/elipapa/markdown-cv), [8](https://jsonresume.org/), [9](https://github.com/bamos/cv)
