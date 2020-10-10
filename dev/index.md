@@ -12,6 +12,7 @@
 * [Συνεργατική κατασκευή οδηγού σπουδών](https://github.com/ioniodi/study-guide/) IV, CSCW, SW, $$
 * [Συνεργατική κατασκευή ιστοσελίδας του τμήματος](https://github.com/ioniodi/site-gr/) IV, CSCW, SW, $$
 * [Συνεργατική κατασκευή ιστοσελίδας δημοσιεύσεων](https://github.com/ioniodi/scholardi/) CSCW, SW, $$$
+* [Συνεργατική κατασκευή συστήματος χαρτογράφησης](https://github.com/ioniodi/atrappos-project) CSCW, IV, SW, $$$
 * [Ελεύθερη επιλογή συνεισφοράς σε δημοφιλές έργο ανοικτού λογισμικού](../soc) CSCW, IV, SW, UBIQ, $$$
 
 # Παραδοτέα για την εργασία ανάπτυξης
