@@ -45,4 +45,4 @@ B: Να κάνετε αλλαγές στην ιστοσελίδα (με παρα
 
 [Adding a submodule](https://asciinema.org/a/9vhZSNlQkO0KwH6lY6gPdWWB8)\
 [Updating a submodule](https://asciinema.org/a/bUMPJqXb9sepWRdlJPyToMpwl)\
-[Deleting a submodule](https://asciinema.org/a/3gFABL73VAJ21UoA4SVzlfRaf)\
+[Deleting a submodule](https://asciinema.org/a/3gFABL73VAJ21UoA4SVzlfRaf)
