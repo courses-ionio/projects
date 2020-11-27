@@ -40,3 +40,9 @@ B: Να κάνετε αλλαγές στην ιστοσελίδα (με παρα
 ### Submodules
 
 Οι παραπάνω εργασίες βασίζονται σε αποθετήριο που περιέχει submodules, τα οποία απαιτούν την χρήση γραμμής εντολών
+
+**Κάποια ενδεικτικά asciinema για την διαδικασία των submodules**
+
+[Adding a submodule](https://asciinema.org/a/9vhZSNlQkO0KwH6lY6gPdWWB8)\
+[Updating a submodule](https://asciinema.org/a/bUMPJqXb9sepWRdlJPyToMpwl)\
+[Deleting a submodule](https://asciinema.org/a/3gFABL73VAJ21UoA4SVzlfRaf)\
