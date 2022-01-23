@@ -12,4 +12,4 @@
 
 ## Σχετικά μορφότυπα και ροές εργασίας για την κατασκευή βιογραφικών
 
-[1](https://github.com/sharu725/online-cv), [2](https://github.com/sproogen/modern-resume-theme), [3](https://github.com/ellekasai/resumecards), [4](https://github.com/plain-plain-text/simple-cv), [5](https://github.com/jglovier/resume-template), [6](https://github.com/blmoore/md-cv), [7](https://github.com/elipapa/markdown-cv), [8](https://jsonresume.org/), [9](https://github.com/bamos/cv), [10](https://github.com/Stavrospanakakis/jekyll-cv)
+[1](https://github.com/sharu725/online-cv), [2](https://github.com/sproogen/modern-resume-theme), [3](https://github.com/ellekasai/resumecards), [4](https://github.com/plain-plain-text/simple-cv), [5](https://github.com/jglovier/resume-template), [6](https://github.com/blmoore/md-cv), [7](https://github.com/elipapa/markdown-cv), [8](https://jsonresume.org/), [9](https://github.com/bamos/cv), [10](https://github.com/Stavrospanakakis/jekyll-cv), [11](https://github.com/hydecorp/hydejack)
